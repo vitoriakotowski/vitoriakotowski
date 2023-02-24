@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Data Science
 - 😄 Pronouns: she/her
 
 <div align="center">
