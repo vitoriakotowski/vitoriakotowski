@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React and ExtJS
-- 😄 Pronouns: she/her
+🌱 I’m currently working with React, SQL and C#
 
 <div align="center">
   <a href="https://github.com/vitoriakotowski">
