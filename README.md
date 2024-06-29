@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently working with React, SQL and C#
+🌱 I’m currently working with React
 
 <div align="center">
   <a href="https://github.com/vitoriakotowski">
